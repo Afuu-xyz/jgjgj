@@ -1,0 +1,18 @@
+{
+  "name": "v12",
+  "version": "4.9.7",
+  "description": "Un bot discord simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "Steven da cat#9147",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.0",
+    "eslint": "^8.17.0"
+  }
+}
